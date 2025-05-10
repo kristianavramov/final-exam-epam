@@ -1,0 +1,84 @@
+@media screen and (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+   
+    .menu-media-queries {
+      display: block;
+    }
+  
+  
+    nav.nav {
+      display: none;
+      width: 100%;
+      text-align: center;
+  
+      ul {
+        flex-direction: column;
+        gap: 10px;
+        padding: 0;
+        margin: 0;
+      }
+    }
+    
+    
+    nav.nav.active {
+      display: block;
+    }
+    
+    .auth-buttons {
+      margin-top: 10px;
+    }
+    
+    .listings-header {
+      flex-direction: column;
+      gap: 10px;
+      
+      input,
+      button,
+      select {
+        width: 100%;
+        max-width: 300px;
+      }
+    }
+    
+    .listing-card {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .listing-gallery,
+    .listing-details {
+      width: 100%;
+    }
+    
+    .pagination {
+      flex-direction: column;
+      gap: 10px;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .header {
+      padding: 10px 15px;
+    }
+    
+    .logo h1 {
+      font-size: 1.5rem;
+    }
+    
+    .listing-details h3 {
+      font-size: 1.4rem;
+    }
+    
+    .toggle-details {
+      font-size: 0.9rem;
+    }
+    
+    .pagination button {
+      padding: 8px 10px;
+    }
+  }
+  

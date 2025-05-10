@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Apartment in Manhattan",
+    "neighborhood": "Manhattan",
+    "size": "1200 sqft",
+    "location": "New York, NY",
+    "amenities": ["Gym", "Pool", "Doorman"],
+    "images": [
+      "assets/images/property1a.jpg"
+    ],
+    "sale": {
+      "price": "$1,200,000"
+    },
+    "rent": {
+      "price": "$4,000/month"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Cozy Flat in Brooklyn",
+    "neighborhood": "Brooklyn",
+    "size": "950 sqft",
+    "location": "Brooklyn, NY",
+    "amenities": ["Parking", "Balcony"],
+    "images": [
+      "assets/images/property2a.jpg"
+    ],
+    "sale": {
+      "price": "$850,000"
+    },
+    "rent": {
+      "price": "$3,000/month"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Luxury Penthouse in SoHo",
+    "neighborhood": "SoHo",
+    "size": "1500 sqft",
+    "location": "New York, NY",
+    "amenities": ["Rooftop", "Gym", "High Ceilings"],
+    "images": [
+      "assets/images/property3a.jpg"
+    ],
+    "sale": {
+      "price": "$2,500,000"
+    },
+    "rent": {
+      "price": "$6,500/month"
+    }
+  },
+  {
+    "id": 4,
+    "title": "The Perfect Townhouse in Queens",
+    "neighborhood": "Queens",
+    "size": "2000 sqft",
+    "location": "Queens, NY",
+    "amenities": ["Garden", "Garage"],
+    "images": [
+      "assets/images/property4a.jpg"
+    ],
+    "sale": {
+      "price": "$1,100,000"
+    },
+    "rent": {
+      "price": "$3,500/month"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Charming Home Unit in Harlem",
+    "neighborhood": "Harlem",
+    "size": "1800 sqft",
+    "location": "Harlem, NY",
+    "amenities": ["Historic", "Fireplace"],
+    "images": [
+      "assets/images/property5a.jpg"
+    ],
+    "sale": {
+      "price": "$1,700,000"
+    },
+    "rent": {
+      "price": "$4,500/month"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Modern Studio in Midtown",
+    "neighborhood": "Midtown",
+    "size": "600 sqft",
+    "location": "Midtown, NY",
+    "amenities": ["Elevator", "Doorman"],
+    "images": [
+      "assets/images/property6a.jpg"
+    ],
+    "sale": {
+      "price": "$600,000"
+    },
+    "rent": {
+      "price": "$2,000/month"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Elegant Apartment in City Center",
+    "neighborhood": "City Center",
+    "size": "2200 sqft",
+    "location": "Tribeca, NY",
+    "amenities": ["Terrace", "City View", "Concierge"],
+    "images": [
+      "assets/images/property7a.jpg"
+    ],
+    "sale": {
+      "price": "$3,200,000"
+    },
+    "rent": {
+      "price": "$7,000/month"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Your Home in Staten Island",
+    "neighborhood": "Staten Island",
+    "size": "1400 sqft",
+    "location": "Staten Island, NY",
+    "amenities": ["Backyard", "Garage"],
+    "images": [
+      "assets/images/property8a.jpg"
+    ],
+    "sale": {
+      "price": "$900,000"
+    },
+    "rent": {
+      "price": "$3,200/month"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Cozy Domicile in Long Island",
+    "neighborhood": "Long Island",
+    "size": "1100 sqft",
+    "location": "Long Island, NY",
+    "amenities": ["Fireplace", "Garden"],
+    "images": [
+      "assets/images/property9a.jpg"
+    ],
+    "sale": {
+      "price": "$750,000"
+    },
+    "rent": {
+      "price": "$2,800/month"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Urban Flat in Downtown Brooklyn",
+    "neighborhood": "Downtown Brooklyn",
+    "size": "1300 sqft",
+    "location": "Downtown Brooklyn, NY",
+    "amenities": ["Modern Kitchen", "Parking"],
+    "images": [
+      "assets/images/property10a.jpg"
+    ],
+    "sale": {
+      "price": "$1,000,000"
+    },
+    "rent": {
+      "price": "$3,600/month"
+    }
+  },
+  {
+    "id": 11,
+    "title": "1600sqft Home in New Jersey",
+    "neighborhood": "Newark",
+    "size": "1600 sqft",
+    "location": "Newark, NJ",
+    "amenities": ["Large Yard", "Garage"],
+    "images": [
+      "assets/images/property11a.jpg"
+    ],
+    "sale": {
+      "price": "$650,000"
+    },
+    "rent": {
+      "price": "$2,400/month"
+    }
+  }
+]
